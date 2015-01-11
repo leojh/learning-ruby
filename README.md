@@ -3,7 +3,8 @@
 # Learning Ruby
 This project is dedicated to teaching/learning programming and Ruby concepts for the [TEALS] Intro to Computer Science class.
 
-#Modules
+#Modules ('src' folder)
+- Dates
 - Conditionals
 - More to come
 
