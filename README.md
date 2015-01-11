@@ -4,8 +4,8 @@
 This project is dedicated to teaching/learning programming and Ruby concepts for the [TEALS] Intro to Computer Science class.
 
 #Modules ('src' folder)
-- Dates
-- Conditionals
+- [Dates](tree/master/src/dates)
+- [Conditionals](tree/master/src/conditionals)
 - More to come
 
 #About [TEALS]
