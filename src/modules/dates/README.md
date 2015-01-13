@@ -6,15 +6,18 @@ Ruby comes with a rudimentary API for dealing with dates.
 Any code file using dates must include the Date API as such:
 
 ```ruby
-require 'Date'```
+require 'Date'
+```
 
 ###Todays Date
 ```ruby
-Date.today```
+Date.today
+```
 
 ###Parse Date from String
 ```ruby
-Date.parse('2014-01-30')```
+Date.parse('2014-01-30')
+```
 
 ###Compare Dates
 Use the equality operators to compare dates
@@ -27,8 +30,8 @@ Use the equality operators to compare dates
 
 ```ruby
 #Checks that todays date is greater than or equals to Jan. 1st, 2000
-Date.today >= Date.parse('2000-01-01')```
-
+Date.today >= Date.parse('2000-01-01')
+```
 
 ###Add/Subtract day(s) to Date
 Use + operator to add
@@ -37,7 +40,8 @@ Use - operator to subtract
 
 ```ruby
 #Adds 1 day to today
-Date.today + 1```
+Date.today + 1
+```
 
 ###Add/Subtract month(s) to Date
 Use >> operator to add
@@ -46,4 +50,5 @@ Use << operator to subtract
 
 ```ruby
 #Adds 1 month to today
-Date.today >> 1```
+Date.today >> 1
+```
