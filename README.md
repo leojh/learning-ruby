@@ -6,6 +6,7 @@ This project is dedicated to teaching/learning programming and Ruby concepts for
 #Modules ('src' folder)
 - Dates
 - Conditionals
+- Methods
 - More to come
 
 #About [TEALS]
