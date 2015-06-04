@@ -19,6 +19,7 @@ while (true)
 
     puts "Enter gamer score:"
     gamer_score = gets.chomp
+    
   elsif option == 2
     puts "Printing the leaderboard"
   elsif option == 3
